@@ -1,0 +1,13 @@
+
+From the repository, select the Clone button.
+
+Copy the clone command (either the SSH format or the HTTPS).
+If you are using the SSH protocol, ensure your public key is in Bitbucket and loaded on the local system to which you are cloning.
+
+From a terminal window, change to the local directory where you want to clone your repository.
+
+Paste the command you copied from Bitbucket, for example:
+
+Clone over HTTPS
+
+$ git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
